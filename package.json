@@ -1,0 +1,26 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "A small library that adds commas to numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irshad6440/numbernpm.git"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "keywords": [
+    "number",
+    "formatter"
+  ],
+  "author": "Irshad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irshad6440/numbernpm/issues"
+  },
+  "homepage": "https://github.com/irshad6440/numbernpm#readme"
+}
